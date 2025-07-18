@@ -1,0 +1,68 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.pyc
+*.pkl
+*.egg-info/
+.eggs/
+*.ipynb_checkpoints
+
+# ========================
+# Jupyter Notebook
+# ========================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ========================
+# Virtual Environments
+# ========================
+env/
+venv/
+.venv/
+
+# ========================
+# IDE Configs (PyCharm, VSCode, etc.)
+# ========================
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+
+# ========================
+# OS-specific Files
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# Logs, Temp, Other
+# ========================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ========================
+# Test/coverage output
+# ========================
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache/
+pytest_cache/
+
+# ========================
+# MyPy & Pylint
+# ========================
+.mypy_cache/
+.pytype/
+pylint-report.txt
+pylint-output.log
