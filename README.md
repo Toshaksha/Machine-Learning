@@ -37,8 +37,13 @@ Each project is contained in its own folder with a dedicated `README.md` explain
     ```bash
     cd Machine-Learning/Diabetes_Prediction
     ```
+3. Install the required dependencies:
 
-3. Follow the instructions in the project’s `README.md` to install dependencies and run the code.
+    ```bash
+    pip install -r requirements.txt
+   ```
+
+4. Follow the instructions in the project’s `README.md` to run the code.
 
 ---
 
