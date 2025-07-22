@@ -15,10 +15,9 @@ Each project tackles a real-world dataset and applies core ML concepts in classi
 
 ## 📁 Projects Included
 
-| Project Name                                                     | Problem Type       | Description                                              |
-|------------------------------------------------------------------|--------------------|----------------------------------------------------------|
-| [Diabetes Prediction](./Diabetes_Prediction)                     | Classification     | Predicts the likelihood of diabetes                      |
-| [Rock vs Mine Prediction](./Rock_vs_Mine_Prediction)             | Classification     | Classifies sonar signals as rock or mine                 |
+| Project Name                                         | Problem Type       | Description                                              |
+|------------------------------------------------------|--------------------|----------------------------------------------------------|
+| [Rock vs Mine Prediction](./rock_vs_mine_prediction) | Classification     | Classifies sonar signals as rock or mine                 |
 
 ---
 
@@ -35,7 +34,7 @@ Each project is contained in its own folder with a dedicated `README.md` explain
 
 2. Navigate to a project folder:
     ```bash
-    cd Machine-Learning/Diabetes_Prediction
+    cd Machine-Learning/rock_vs_mine_prediction
     ```
 3. Install the required dependencies:
 
@@ -79,7 +78,7 @@ Use it freely for learning, building, and growing.
 Feel free to connect or reach out:
 
 - GitHub: [@Toshaksha](https://github.com/Toshaksha)  
-- LinkedIn: [linkedin.com/in/Toshaksha](https://linkedin.com/in/Toshaksha)
+- LinkedIn: [Toshaksha](https://linkedin.com/in/Toshaksha)
 
 ---
 
