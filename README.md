@@ -18,6 +18,7 @@ Each project tackles a real-world dataset and applies core ML concepts in classi
 | Project Name                                         | Problem Type       | Description                                              |
 |------------------------------------------------------|--------------------|----------------------------------------------------------|
 | [Rock vs Mine Prediction](./rock_vs_mine_prediction) | Classification     | Classifies sonar signals as rock or mine                 |
+| [Fake News Detection](./fake_news_prediction)        | Binary Classification | Detects whether a news article is real or fake using NLP and Logistic Regression |
 
 ---
 
