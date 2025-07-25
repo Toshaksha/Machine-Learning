@@ -105,7 +105,6 @@ diabetes-prediction-svm/
 │
 ├── diabetes.csv                      # Dataset file
 ├── diabetes_prediction.ipynb         # Notebook with full code and predictions
-├── requirements.txt                  # Python dependencies
 └── README.md                         # Project documentation
 ```
 

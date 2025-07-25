@@ -85,7 +85,7 @@ The object is a Mine.
 ## 📦 Installation & Setup
 
 ```bash
-git clone https://github.com/Toshaksha/rock_vs_mine_prediction.git
+git clone https://github.com/Toshaksha/Machine-Learning.git
 cd rock_vs_mine_prediction
 pip install -r requirements.txt
 ```
