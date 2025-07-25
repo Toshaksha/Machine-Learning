@@ -88,7 +88,7 @@ else:
 ## 📦 Installation & Setup
 
 ```bash
-git clone https://github.com/Toshaksha/fake_news_prediction.git
+git clone https://github.com/Toshaksha/Machine-Learning.git
 cd fake_news_prediction
 pip install -r requirements.txt
 ```
