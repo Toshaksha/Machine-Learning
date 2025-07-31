@@ -45,10 +45,6 @@ This helps businesses target marketing efforts and improve customer engagement.
 
 ---
 
-Here's how you can **center your images** in Markdown (works well on GitHub) and add both the **Cluster Plot** and **Elbow Plot** with proper captions:
-
----
-
 ## 📌 Cluster Visualization
 
 <p align="center">
@@ -96,9 +92,6 @@ By segmenting customers based on income and spending score, businesses can:
 
 ---
 
-Sure! Here's a matching **📦 Installation & Setup** and **📝 How to Use** section tailored for your **Customer Segmentation using KMeans** project:
-
----
 
 ### 📦 Installation & Setup
 
