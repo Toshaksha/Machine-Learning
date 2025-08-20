@@ -1,8 +1,9 @@
 <h1 align="center">🤖 Machine Learning Projects Collection</h1>
 
 <p align="center">
-A curated collection of beginner-friendly machine learning projects, built using Python and libraries like <strong>Pandas</strong>, <strong>Scikit-learn</strong>, and <strong>Seaborn</strong>.<br/>
-Each project tackles a real-world dataset and applies core ML concepts in classification, regression, and clustering.
+A curated collection of machine learning projects built with Python and popular data science libraries.<br/>
+Projects cover a range of topics including supervised and unsupervised learning, deep learning, and interactive applications.<br/>
+This repository grows as I explore new techniques and tools in the ML ecosystem.
 </p>
 
 <p align="center">
@@ -13,16 +14,24 @@ Each project tackles a real-world dataset and applies core ML concepts in classi
 
 ---
 
+🤖 Part of My ML Learning Journey
+
+These projects complement my machine learning notes and hands-on study.
+
+🧠 Want to explore the notes and theory that support these projects?  
+📘 Check out my companion notes repository: [Notes Repository](https://github.com/Toshaksha/notes-repo)
+
+---
+
 ## 📁 Projects Included
 
-| Project Name                                         | Problem Type       | Description                                              |
-|------------------------------------------------------|--------------------|----------------------------------------------------------|
-| [Rock vs Mine Prediction](./rock_vs_mine_prediction) | Classification     | Classifies sonar signals as rock or mine                 |
-| [Fake News Detection](./fake_news_prediction)        | Binary Classification | Detects whether a news article is real or fake using NLP and Logistic Regression |
-| [Diabetes Prediction](./diabetes_prediction)         | Binary Classification | Predicts whether a person has diabetes using health indicators and SVM |
-| [Customer Segmentation](./customer_segmentation)     | Unsupervised Learning | Segments mall customers based on income and spending using KMeans clustering |
-| [House Price Prediction](./house_price_prediction)   | Supervised Learning     | Predicts residential property prices in Houston using Random Forest on Zillow-based data   |
-
+| Project Name                                         | Problem Type          | Description                                              | Open in Colab           |
+|-----------------------------------------------------|-----------------------|----------------------------------------------------------|-------------------------|
+| [Rock vs Mine Prediction](./rock_vs_mine_prediction) | Classification        | Classifies sonar signals as rock or mine                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Toshaksha/Machine-Learning/blob/main/rock_vs_mine_prediction/rock_vs_mine_prediction.ipynb) |
+| [Fake News Detection](./fake_news_prediction)       | Binary Classification | Detects whether a news article is real or fake using NLP and Logistic Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Toshaksha/Machine-Learning/blob/main/fake_news_prediction/fake_news_prediction.ipynb) |
+| [Diabetes Prediction](./diabetes_prediction)        | Binary Classification | Predicts whether a person has diabetes using health indicators and SVM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Toshaksha/Machine-Learning/blob/main/diabetes_prediction/diabetes_prediction.ipynb) |
+| [Customer Segmentation](./customer_segmentation)    | Unsupervised Learning | Segments mall customers based on income and spending using KMeans clustering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Toshaksha/Machine-Learning/blob/main/customer_segmentation/customer_segmentation.ipynb) |
+| [House Price Prediction](./house_price_prediction)  | Supervised Learning   | Predicts residential property prices in Houston using Random Forest on Zillow-based data | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Toshaksha/Machine-Learning/blob/main/house_price_prediction/house_price_prediction.ipynb) |
 
 ---
 
