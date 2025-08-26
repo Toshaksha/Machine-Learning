@@ -34,14 +34,14 @@ This model helps in early detection and preventive healthcare management.
 
 ## 🚀 Workflow Overview
 
-1. **Import Libraries** – Load essential Python packages  
-2. **Load & Explore Data** – Read dataset and examine basic stats  
-3. **Separate Features & Labels** – Split inputs and target variable  
-4. **Train-Test Split** – Stratified split into training and testing sets  
-5. **Data Standardization** – Scale features for optimal model performance  
-6. **Train SVM Model** – Fit a linear Support Vector Machine classifier  
-7. **Evaluate Model** – Calculate accuracy on training and test data  
-8. **Make Predictions** – Test model on new patient data  
+1. **Import Libraries** - Load essential Python packages  
+2. **Load & Explore Data** - Read dataset and examine basic stats  
+3. **Separate Features & Labels** - Split inputs and target variable  
+4. **Train-Test Split** - Stratified split into training and testing sets  
+5. **Data Standardization** - Scale features for optimal model performance  
+6. **Train SVM Model** - Fit a linear Support Vector Machine classifier  
+7. **Evaluate Model** - Calculate accuracy on training and test data  
+8. **Make Predictions** - Test model on new patient data  
 
 ---
 
@@ -121,7 +121,7 @@ diabetes-prediction-svm/
 
 ## 👤 Author
 
-**Toshaksha** – [GitHub Profile](https://github.com/Toshaksha)
+**Toshaksha** - [GitHub Profile](https://github.com/Toshaksha)
 
 Feel free to connect or reach out!
 
