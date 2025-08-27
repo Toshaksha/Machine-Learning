@@ -36,12 +36,12 @@ This helps businesses target marketing efforts and improve customer engagement.
 
 ## 🚀 Workflow Overview
 
-1. **Import Libraries** – Load necessary Python packages  
-2. **Load & Explore Data** – Understand dataset structure and check for missing values  
-3. **Feature Selection** – Choose ‘Annual Income’ and ‘Spending Score’ for clustering  
-4. **Determine Optimal Clusters** – Use Elbow Method (WCSS) to find best number of clusters  
-5. **Train Model** – Fit KMeans clustering on selected features  
-6. **Evaluate & Visualize** – Plot clusters and centroids to interpret customer groups  
+1. **Import Libraries** - Load necessary Python packages  
+2. **Load & Explore Data** - Understand dataset structure and check for missing values  
+3. **Feature Selection** - Choose ‘Annual Income’ and ‘Spending Score’ for clustering  
+4. **Determine Optimal Clusters** - Use Elbow Method (WCSS) to find best number of clusters  
+5. **Train Model** - Fit KMeans clustering on selected features  
+6. **Evaluate & Visualize** - Plot clusters and centroids to interpret customer groups  
 
 ---
 
@@ -146,7 +146,7 @@ customer-segmentation/
 
 ## 👤 Author
 
-**Toshaksha** – [Github Profile](https://github.com/Toshaksha)  
+**Toshaksha** - [Github Profile](https://github.com/Toshaksha)  
 
 Feel free to connect or reach out!
 
