@@ -12,14 +12,6 @@ This repository grows as I explore new techniques and tools in the ML ecosystem.
   <img src="https://img.shields.io/github/repo-size/Toshaksha/Machine-Learning" alt="Repo size" />
 </p>
 
----
-
-🤖 Part of My ML Learning Journey
-
-These projects complement my machine learning notes and hands-on study.
-
-🧠 Want to explore the notes and theory that support these projects?  
-📘 Check out my companion notes repository: [Notes Repository](https://github.com/Toshaksha/notes-repo)
 
 ---
 
